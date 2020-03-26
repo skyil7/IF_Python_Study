@@ -15,8 +15,8 @@
 
 |Week|제목|자료|
 |-|-----|---|
-|1|파이썬 소개 및 입출력|[🖥][🎥](https://youtu.be/E0qAKTqLxMM)|
-|2|파이썬의 자료형|🖥️[🎥](https://youtu.be/3PTTJCWDVKk)|
+|1|파이썬 소개 및 입출력|[🖥](https://github.com/skyil7/IF_Python_Study/blob/master/PDF/1%EA%B0%95.%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%86%8C%EA%B0%9C.pdf)[🎥](https://youtu.be/E0qAKTqLxMM)|
+|2|파이썬의 자료형|[🖥️](https://github.com/skyil7/IF_Python_Study/blob/master/PDF/2%EA%B0%95.%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EC%9E%90%EB%A3%8C%ED%98%95.pdf)[🎥](https://youtu.be/3PTTJCWDVKk)|
 |3|반복문과 조건문|🖥️|
 |4|함수와 클래스|🖥️|
 |5|||
